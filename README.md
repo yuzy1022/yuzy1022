@@ -1,7 +1,9 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome-nl-&desc=SangWon%20Park's%20Github%20Profile&fontSize=90)
 
-<!--
-**yuzy1022/yuzy1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Link  
+<a href="https://www.linkedin.com/in/sangwon1022" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor="/></a>
+<a href="https://velog.io/@nnayu526/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=psw991022@gmail.com" target="_blank"><img src="https://img.shields.io/badge/psw991022@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
 
 Here are some ideas to get you started:
 
